@@ -33,7 +33,7 @@
 </a>
 
 <a href="TARGET_LINK">
-    <img alt="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img alt="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </a>
 
 
