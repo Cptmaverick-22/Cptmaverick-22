@@ -1,3 +1,5 @@
+https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+
 - 👋 Hi, I’m @Cptmaverick-22
 - 👀 I’m interested in ... Python, Web Development, Java, Chat GPT, Tech releases and Gaming
 - 🌱 I’m currently learning ... Web Development and Python
