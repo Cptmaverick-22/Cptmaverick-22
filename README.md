@@ -10,7 +10,7 @@
 
 | C | Tests | Coverage |
 | :---: | :----: | :------: | 
-| [![C](badge)]([link](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)) | [![Tests](badge)](link)| [![Coverage](badge)](link) |
+| [![C](badge)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | [![Tests](badge)](link)| [![Coverage](badge)](link) |
 <!---
 Cptmaverick-22/Cptmaverick-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
