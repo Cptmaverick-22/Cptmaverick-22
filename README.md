@@ -39,11 +39,6 @@
 <a href="TARGET_LINK">
     <img alt="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
-
-
-
-
-
 <!---
 Cptmaverick-22/Cptmaverick-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
